@@ -22,5 +22,5 @@ To perform a search within the database, use the following JSON format:
     "IČO": ["Desired IČO (od: update date)"]
 }
 
-Replace "Desired IČO" with the specific IČO you are looking for, and optionally specify the update date in the format YYYY-MM-DD. Send this JSON as a POST request to the search endpoint.
+Replace "Desired IČO" with the specific IČO you are looking for, and optionally specify the update date in the format DD-MM-YYYY. Send this JSON as a POST request to the search endpoint.
 
