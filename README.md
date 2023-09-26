@@ -1,4 +1,4 @@
-# SoftOne
+# ORSR Python scraper
 This README file provides instructions on how to interact with the project, including how to input data into the database, run the application, retrieve IČO and Obchodne meno (via the 'get' endpoint), and perform searches within the database using the specified JSON format {"IČO": ["Desired IČO (od: update date)"]}.        
 
 # Getting Started
